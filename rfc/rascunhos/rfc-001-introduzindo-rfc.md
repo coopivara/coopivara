@@ -1,4 +1,4 @@
-> **Disclaimer**: este documento está sendo escrito com a ajuda do ChatGPT, por isso está em inglês. Ele será traduzido para português em tempo oportuno.
+> **Disclaimer**: este documento está sendo escrito com a ajuda do ChatGPT e do Notion AI, por isso está em inglês. Ele será traduzido para português em tempo oportuno.
 
 # RFC-001: Introducing the RFC process to the co-op
 
