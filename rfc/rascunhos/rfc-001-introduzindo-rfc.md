@@ -12,7 +12,7 @@
 
 This RFC proposes the adoption of the Request For Comments (RFC) process in our co-op to enhance our ability to collaborate effectively, promote transparency and accountability, and deliver high-quality solutions. Inspired by the success of the RFC process in the open source community, this document outlines the benefits of the RFC process and how it can be applied to our work on complex topics such as strategy, planning, feature design, policy-making, software architecture and adoption of best practices. 
 
-## Background and Motivation
+## Motivation
 
 We are committed to collaborating in a transparent and inclusive manner, but we have been struggling to adopt clear processes that enable us to organize our work effectively. Our current platform, Discord, has limitations that make it challenging to dive deeper into complex topics and preserve our knowledge in a structured way. While Discord is useful for short communication, many of our members do not have the time to engage in all synchronous conversations, requiring longer periods to contribute to discussions. Additionally, the work produced in Discord is not durable, hard to search, and outside of our control as it is a closed-source app, which we can lose access to at any time.
 
