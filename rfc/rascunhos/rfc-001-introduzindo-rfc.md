@@ -4,7 +4,7 @@
 
 - RFC number: 001
 - Author(s): Guilherme Jordan
-- Status: <Draft>
+- Status: Draft
 - Date submitted: <24/03/2023>
 - Date last updated: <24/03/2023>
 
